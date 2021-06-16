@@ -136,7 +136,7 @@ System check identified no issues (0 silenced).
 
 <br />
 
-**Apply Changes on Database** (aka `migrate` the database).
+> Generate the SQL code 
 
 ```bash
 $ python manage.py makemigrations  # generate the SQL code
