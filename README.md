@@ -1,6 +1,6 @@
 # Create Model in Django
 
-Open-source sample that explains **how to create and USE a model in Django**. All commands used to code the project and also the relevant updates are listed below. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+Open-source sample that explains **how to [create a Django Model](https://docs.appseed.us/samples/django/create-model)**. All commands used to code the project and also the relevant updates are listed below. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
 > **For support and more [Django Samples](https://appseed.us/admin-dashboards/django) join [AppSeed](https://appseed.us).**
 
@@ -270,4 +270,4 @@ At this point we should see the `Books` model in the UI and able to execute CRUD
 <br />
 
 ---
-Create Model in Django - Open-source Sample provided by [AppSeed](https://appseed.us/app-generator).
+[Create Model in Django](https://docs.appseed.us/samples/django/create-model) - Open-source Sample provided by [AppSeed](https://appseed.us/app-generator).
