@@ -1,0 +1,1 @@
+# django-create-model
