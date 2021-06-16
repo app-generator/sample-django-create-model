@@ -1,6 +1,6 @@
 # Create Model in Django
 
-Open-source sample that explains how to create a model in Django. All commands used to code the project and also the relevant updates are listed below. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+Open-source sample that explains **how to create and USE a model in Django**. All commands used to code the project and also the relevant updates are listed below. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
 > **For support and more [Django Samples](https://appseed.us/admin-dashboards/django) join [AppSeed](https://appseed.us).**
 
@@ -250,6 +250,18 @@ admin.site.register(Book)       # <- NEW
 > Authenticate as admin - `http://localhost:8000/admin/`
 
 At this point we should see the `Books` model in the UI and able to execute CRUD operations. 
+
+<br />
+
+![Create Model Django - The Book model is visible in the admin interface.](https://user-images.githubusercontent.com/51070104/122179419-2c5f7d00-ce90-11eb-84ad-d51fb05d5521.png)
+
+<br />
+
+![Create Model Django - Books Model has all items listed by the admin interface.](https://user-images.githubusercontent.com/51070104/122179527-4bf6a580-ce90-11eb-91f2-6f1c19a57bec.png)
+
+<br />
+
+![Create Model Django - Item details defined by the Book model.](https://user-images.githubusercontent.com/51070104/122179742-78122680-ce90-11eb-81bb-42477db9460b.png)
 
 <br />
 
